@@ -1,0 +1,7 @@
+package: github.com/atsushi-ishibashi/clair-lambda
+import:
+- package: github.com/aws/aws-sdk-go
+  version: ^1.13.39
+- package: github.com/aws/aws-lambda-go
+  version: ^1.1.0
+- package: github.com/optiopay/klar
